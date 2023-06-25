@@ -1,4 +1,4 @@
-public class Main {
+public class Switch {
     public static void main(String[] args) {
         int value = 2; //expression count: 1
 
