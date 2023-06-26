@@ -12,7 +12,6 @@ public class Methods {
         if(gameOver){
             finalScore += (levelCompleted * bonus) + 1000;
         }
-
         return finalScore;
     }
 }
